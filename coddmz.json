@@ -1,0 +1,48 @@
+{
+  "bounties": {
+    "bounty": [
+      {
+        "bountyTitle": "Wallet Expansion 4",
+        "reward": "Expand the wallet's capacity by an additional $100k.",
+        "tasks": [
+          {
+            "taskTitle": "Extract 6 vintage wine bottles",
+            "quantity": "6",
+            "item": "Vintage Wine Bottle"
+          },
+          {
+            "taskTitle": "Extract 16 bottles of Japanese liquor",
+            "quantity": "16",
+            "item": "Japanese liquor"
+          }
+        ]
+      },
+      {
+        "bountyTitle": "Stash Expansion 4",
+        "reward": "Expand the mission item and key stashes by an additional 3 slots each.",
+        "tasks": [
+          {
+            "taskTitle": "Extract 5 screwdrivers",
+            "quantity": "5",
+            "item": "Screwdrivers"
+          },
+          {
+            "taskTitle": "Extract 5 wrenches.",
+            "quantity": "5",
+            "item": "Wrenches"
+          },
+          {
+            "taskTitle": "Extract 1 MK32",
+            "quantity": "1",
+            "item": "MK32"
+          },
+          {
+            "taskTitle": "Extract 3 dog tags.",
+            "quantity": "3",
+            "item": "Dog tags"
+          }
+        ]
+      }
+    ]
+  }
+}
