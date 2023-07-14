@@ -4,12 +4,12 @@
     "reward": "Expand the wallet's capacity by an additional $100k.",
     "tasks": [
       {
-        "name": "Extract 6 vintage wine bottles",
+        "taskDescription": "Extract 6 vintage wine bottles",
         "quantity": 6,
         "item": "Vintage Wine Bottle"
       },
       {
-        "name": "Extract 16 bottles of Japanese liquor",
+        "taskDescription": "Extract 16 bottles of Japanese liquor",
         "quantity": 16,
         "item": "Japanese liquor"
       }
@@ -20,22 +20,22 @@
     "reward": "Expand the mission item and key stashes by an additional 3 slots each.",
     "tasks": [
       {
-        "name": "Extract 5 screwdrivers",
+        "taskDescription": "Extract 5 screwdrivers",
         "quantity": 5,
         "item": "Screwdriver"
       },
       {
-        "name": "Extract 5 wrenches.",
+        "taskDescription": "Extract 5 wrenches.",
         "quantity": 5,
         "item": "Wrench"
       },
       {
-        "name": "Extract 1 MK32",
+        "taskDescription": "Extract 1 MK32",
         "quantity": 1,
         "item": "MK32"
       },
       {
-        "name": "Extract 3 dog tags.",
+        "taskDescription": "Extract 3 dog tags.",
         "quantity": 3,
         "item": "Dog tag"
       }
