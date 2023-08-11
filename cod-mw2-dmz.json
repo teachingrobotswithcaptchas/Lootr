@@ -2,14 +2,15 @@
   {
     "title": "Wallet Expansion 4",
     "reward": "Expand the wallet's capacity by an additional $100k.",
+    "category": "Stash",
     "tasks": [
       {
-        "taskDescription": "Extract 6 vintage wine bottles",
+        "title": "Extract 6 vintage wine bottles",
         "quantity": 6,
         "item": "Vintage Wine Bottle"
       },
       {
-        "taskDescription": "Extract 16 bottles of Japanese liquor",
+        "title": "Extract 16 bottles of Japanese liquor",
         "quantity": 16,
         "item": "Japanese liquor"
       }
@@ -18,24 +19,25 @@
   {
     "title": "Stash Expansion 4",
     "reward": "Expand the mission item and key stashes by an additional 3 slots each.",
+    "category": "Stash",
     "tasks": [
       {
-        "taskDescription": "Extract 5 screwdrivers",
+        "title": "Extract 5 screwdrivers",
         "quantity": 5,
         "item": "Screwdriver"
       },
       {
-        "taskDescription": "Extract 5 wrenches.",
+        "title": "Extract 5 wrenches.",
         "quantity": 5,
         "item": "Wrench"
       },
       {
-        "taskDescription": "Extract 1 MK32",
+        "title": "Extract 1 MK32",
         "quantity": 1,
         "item": "MK32"
       },
       {
-        "taskDescription": "Extract 3 dog tags.",
+        "title": "Extract 3 dog tags.",
         "quantity": 3,
         "item": "Dog tag"
       }
