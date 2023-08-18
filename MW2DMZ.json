@@ -1,46 +1,476 @@
 [
-  {
-    "title": "Wallet Expansion 4",
-    "reward": "Expand the wallet's capacity by an additional $100k.",
-    "category": "Stash",
-    "tasks": [
-      {
-        "title": "Extract 6 vintage wine bottles",
-        "quantity": 6,
-        "item": "Vintage Wine Bottle"
-      },
-      {
-        "title": "Extract 16 bottles of Japanese liquor",
-        "quantity": 16,
-        "item": "Japanese liquor"
-      }
-    ]
-  },
-  {
-    "title": "Stash Expansion 4",
-    "reward": "Expand the mission item and key stashes by an additional 3 slots each.",
-    "category": "Stash",
-    "tasks": [
-      {
-        "title": "Extract 5 screwdrivers",
-        "quantity": 5,
-        "item": "Screwdriver"
-      },
-      {
-        "title": "Extract 5 wrenches.",
-        "quantity": 5,
-        "item": "Wrench"
-      },
-      {
-        "title": "Extract 1 MK32",
-        "quantity": 1,
-        "item": "MK32"
-      },
-      {
-        "title": "Extract 3 dog tags.",
-        "quantity": 3,
-        "item": "Dog tag"
-      }
-    ]
-  }
+    {
+        "title": "Unlock Wallet",
+        "reward": "Unlock the Wallet to store extra cash.",
+        "category": "Stash",
+        "tasks": [
+            {
+                "title": "Extract $100,000 in cash.",
+                "quantity": 100000,
+                "item": "Cash"
+            }
+        ]
+    },
+    {
+        "title": "Wallet Expansion 1",
+        "reward": "Expands the Wallet capacity by $150,000.",
+        "category": "Stash",
+        "tasks": [
+            {
+                "title": "Extract 10 bottles of liquor.",
+                "quantity": 10,
+                "item": "Liquor"
+            },
+            {
+                "title": "Extract six wine bottles.",
+                "quantity": 6,
+                "item": "Wine"
+            },
+            {
+                "title": "Extract two aged or vintage wine bottles.",
+                "quantity": 2,
+                "item": "Wine - Vintage or Aged"
+            }
+        ]
+    },
+    {
+        "title": "Wallet Expansion 2",
+        "reward": "Expands the Wallet capacity by $150,000.",
+        "category": "Stash",
+        "tasks": [
+            {
+                "title": "Extract 8 hard drives.",
+                "quantity": 8,
+                "item": "Hard Drive"
+            },
+            {
+                "title": "Extract 4 thumb drives.",
+                "quantity": 4,
+                "item": "Thumb Drive"
+            },
+            {
+                "title": "Extract 4 laptops.",
+                "quantity": 4,
+                "item": "Laptops"
+            },
+            {
+                "title": "Extract 2 encrypted drives.",
+                "quantity": 2,
+                "item": "Encrypted Hard Drive"
+            }
+        ]
+    },
+    {
+        "title": "Wallet Expansion 3",
+        "reward": "Expands the Wallet capacity by $150,000.",
+        "category": "Stash",
+        "tasks": [
+            {
+                "title": "Extract two GPUs.",
+                "quantity": 2,
+                "item": "GPU"
+            },
+            {
+                "title": "Extract 16 bottles of Japanese liquor",
+                "quantity": 16,
+                "item": "Japanese Liquor"
+            }
+        ]
+    },
+    {
+        "title": "Wallet Expansion 4",
+        "reward": "Expand the wallet's capacity by an additional $100k.",
+        "category": "Stash",
+        "tasks": [
+            {
+                "title": "Extract 6 vintage wine bottles",
+                "quantity": 6,
+                "item": "Vintage Wine Bottle"
+            },
+            {
+                "title": "Extract 16 bottles of Japanese liquor",
+                "quantity": 16,
+                "item": "Japanese liquor"
+            }
+        ]
+    },
+    {
+        "title": "Wallet Expansion 5",
+        "reward": "Expands the Wallet capacity by $100,000.",
+        "category": "Stash",
+        "tasks": [
+            {
+                "title": "Extract 10 Gold Bars.",
+                "quantity": 10,
+                "item": "Gold Bar"
+            },
+            {
+                "title": "Extract 6 Gold Skulls.",
+                "quantity": 16,
+                "item": "Gold Skull"
+            }
+        ]
+    },
+    {
+        "title": "Stash Expansion 1",
+        "reward": "Expands the mission item/key stash by 5 slots.",
+        "category": "Stash",
+        "tasks": [
+            {
+                "title": "Extract 10 nuclear fuel rods.",
+                "quantity": 10,
+                "item": "Nuclear Fuel Rod"
+            },
+            {
+                "title": "Extract 2 radiation blocker bottles.",
+                "quantity": 2,
+                "item": "Radiation Blocker"
+            }
+        ]
+    },
+    {
+        "title": "Stash Expansion 2",
+        "reward": "Expands the mission item/key stash by 5 slots.",
+        "category": "Stash",
+        "tasks": [
+            {
+                "title": "Extract 9 cigar boxes.",
+                "quantity": 9,
+                "item": "Cigar Box"
+            },
+            {
+                "title": "Extract 5 comic books.",
+                "quantity": 5,
+                "item": "Comic Book"
+            },
+            {
+                "title": "Extract 3 asprin bottles.",
+                "quantity": 3,
+                "item": "Asprin Bottle"
+            }
+        ]
+    },
+    {
+        "title": "Stash Expansion 3",
+        "reward": "Expands the mission item/key stash by 4 slots.",
+        "category": "Stash",
+        "tasks": [
+            {
+                "title": "Extract 5 large medical bags.",
+                "quantity": 5,
+                "item": "Medical Bag - Large"
+            },
+            {
+                "title": "Extract 10 AFAKs.",
+                "quantity": 10,
+                "item": "AFAK"
+            },
+            {
+                "title": "Extract 15 IFAKs.",
+                "quantity": 15,
+                "item": "IFAK"
+            }
+        ]
+    },
+    {
+        "title": "Stash Expansion 4",
+        "reward": "Expands the mission item/key stash by 3 slots.",
+        "category": "Stash",
+        "tasks": [
+            {
+                "title": "Extract 5 screwdrivers.",
+                "quantity": 5,
+                "item": "Screwdriver"
+            },
+            {
+                "title": "Extract 5 wrenches.",
+                "quantity": 5,
+                "item": "Wrench"
+            },
+            {
+                "title": "Extract 3 dog tags.",
+                "quantity": 3,
+                "item": "Dog Tag"
+            },
+            {
+                "title": "Extract MK32 (RGL-80).",
+                "quantity": 1,
+                "item": "MK32 (RGL-80)"
+            }
+        ]
+    },
+    {
+        "title": "Stash Expansion 5",
+        "reward": "Expands the mission item/key stash by 3 slots.",
+        "category": "Stash",
+        "tasks": [
+            {
+                "title": "Extract 40 documents.",
+                "quantity": 40,
+                "item": "Document"
+            },
+            {
+                "title": "Extract 16 sensitive documents.",
+                "quantity": 16,
+                "item": "Document - Sensitive"
+            },
+            {
+                "title": "Extract 8 classified documents.",
+                "quantity": 8,
+                "item": "Document - Classified"
+            }
+        ]
+    },
+    {
+        "title": "Wallet Expansion 1 (Crown)",
+        "reward": "Expands the Wallet capacity by $100,000.",
+        "category": "Stash",
+        "tasks": [
+            {
+                "title": "Extract 5 batteries.",
+                "quantity": 5,
+                "item": "Battery"
+            },
+            {
+                "title": "Extract 2 drills.",
+                "quantity": 2,
+                "item": "Drill"
+            },
+            {
+                "title": "Extract 3 bottles of gun oil.",
+                "quantity": 3,
+                "item": "Gun Oil"
+            }
+        ]
+    },
+    {
+        "title": "Wallet Expansion 2 (Crown)",
+        "reward": "Expands the Wallet capacity by $50,000.",
+        "category": "Stash",
+        "tasks": [
+            {
+                "title": "Extract 8 electric tapes.",
+                "quantity": 8,
+                "item": "Electric Tape"
+            },
+            {
+                "title": "Extract 3 car batteries.",
+                "quantity": 3,
+                "item": "Car Battery"
+            },
+            {
+                "title": "Extract 6 jumper cables.",
+                "quantity": 6,
+                "item": "Jumper Cable"
+            }
+        ]
+    },
+    {
+        "title": "Wallet Expansion 3 (Crown)",
+        "reward": "Expands the Wallet capacity by $50,000.",
+        "category": "Stash",
+        "tasks": [
+            {
+                "title": "Extract 5 AQ laptops.",
+                "quantity": 5,
+                "item": "AQ Laptop"
+            },
+            {
+                "title": "Extract 10 Screwdrivers",
+                "quantity": 10,
+                "item": "Screwdriver"
+            },
+            {
+                "title": "Extract 4 encrypted hard drives.",
+                "quantity": 4,
+                "item": "Encrypted Hard Drive"
+            },
+            {
+                "title": "Extract $500,000 in cash",
+                "quantity": 500000,
+                "item": "Cash"
+            }
+        ]
+    },
+    {
+        "title": "Wallet Expansion 4 (Crown)",
+        "reward": "Expand the wallet's capacity by an additional $50k.",
+        "category": "Stash",
+        "tasks": [
+            {
+                "title": "Extract 4 GPUs.",
+                "quantity": 4,
+                "item": "GPU"
+            },
+            {
+                "title": "Extract 10 game consoles.",
+                "quantity": 10,
+                "item": "Game Console"
+            },
+            {
+                "title": "Extract 10 VCRs.",
+                "quantity": 10,
+                "item": "VCR"
+            },
+            {
+                "title": "Extract 8 encrypted hard drives.",
+                "quantity": 8,
+                "item": "Hard Drive"
+            }
+        ]
+    },
+    {
+        "title": "Wallet Expansion 5 (Crown)",
+        "reward": "Expands the Wallet capacity by $50,000.",
+        "category": "Stash",
+        "tasks": [
+            {
+                "title": "Extract 14 nuclear rods.",
+                "quantity": 14,
+                "item": "Nuclear Rod"
+            },
+            {
+                "title": "Extract 7 bottles of gun oil.",
+                "quantity": 7,
+                "item": "Gun Oil"
+            }
+        ]
+    },
+    {
+        "title": "Stash Expansion 1 (Crown)",
+        "reward": "Expands the mission item/key stash by 3 slots.",
+        "category": "Stash",
+        "tasks": [
+            {
+                "title": "Extract 8 bandages.",
+                "quantity": 8,
+                "item": "Bandage"
+            },
+            {
+                "title": "Extract 4 IFAKs.",
+                "quantity": 4,
+                "item": "IFAK"
+            }
+        ]
+    },
+    {
+        "title": "Stash Expansion 2 (Crown)",
+        "reward": "Expands the mission item/key stash by 3 slots.",
+        "category": "Stash",
+        "tasks": [
+            {
+                "title": "Extract 6 vases.",
+                "quantity": 6,
+                "item": "Vase"
+            },
+            {
+                "title": "Extract 3 bottles of Japanese liquor.",
+                "quantity": 3,
+                "item": "Japanese Liquor"
+            }
+        ]
+    },
+    {
+        "title": "Stash Expansion 3 (Crown)",
+        "reward": "Expands the mission item/key stash by 2 slots.",
+        "category": "Stash",
+        "tasks": [
+            {
+                "title": "Extract 8 purified water bottles.",
+                "quantity": 8,
+                "item": "Purified Water Bottle"
+            },
+            {
+                "title": "Extract 7 emergency rations.",
+                "quantity": 7,
+                "item": "Emergency Ration"
+            },
+            {
+                "title": "Extract 3 gas cans.",
+                "quantity": 3,
+                "item": "Gas Can"
+            }
+        ]
+    },
+    {
+        "title": "Stash Expansion 4 (Crown)",
+        "reward": "Expands the mission item/key stash by 1 slot.",
+        "category": "Stash",
+        "tasks": [
+            {
+                "title": "Extract 8 bottles of asprin.",
+                "quantity": 8,
+                "item": "Asprin"
+            },
+            {
+                "title": "Extract 3 large medical bags.",
+                "quantity": 3,
+                "item": "Large Medical Bag"
+            }
+        ]
+    },
+    {
+        "title": "Stash Expansion 5 (Crown)",
+        "reward": "Expands the mission item/key stash by 1 slot.",
+        "category": "Stash",
+        "tasks": [
+            {
+                "title": "Extract 14 nuclear fuel rods.",
+                "quantity": 14,
+                "item": "Nuclear Fuel Rod"
+            },
+            {
+                "title": "Extract 7 bottles of gun oil.",
+                "quantity": 7,
+                "item": "Gun Oil"
+            },
+            {
+                "title": "Extract 2 liquid nitrogens.",
+                "quantity": 2,
+                "item": "Liquid Nitrogen"
+            },
+            {
+                "title": "Extract 10 blow torches.",
+                "quantity": 10,
+                "item": "Blow Torch"
+            }
+        ]
+    },
+    {
+        "title": "Unlock Armor Box",
+        "reward": "Unlocks the armor box as a selectable field upgrade.",
+        "category": "Equipment",
+        "tasks": [
+            {
+                "title": "Extract 8 armor boxes.",
+                "quantity": 8,
+                "item": "Armor Box"
+            },
+            {
+                "title": "Extract 4 drills.",
+                "quantity": 4,
+                "item": "Drill"
+            },
+            {
+                "title": "Extract 5 screwdrivers.",
+                "quantity": 5,
+                "item": "Screwdriver"
+            },
+            {
+                "title": "Extract 8 batteries.",
+                "quantity": 8,
+                "item": "Battery"
+            },
+            {
+                "title": "Extract 16 electronic components.",
+                "quantity": 16,
+                "item": "Electronic Component"
+            },
+            {
+                "title": "Extract 5 plastic explosive bricks.",
+                "quantity": 5,
+                "item": "Plastic Explosive Brick"
+            }
+        ]
+    }
 ]
