@@ -472,5 +472,275 @@
                 "item": "Plastic Explosive Brick"
             }
         ]
+    },
+    {
+        "title": "Increased Starting Armor - Stage 3",
+        "reward": "Start deployments with 5 armor plates.",
+        "category": "Equipment",
+        "tasks": [
+            {
+                "title": "Extract 5 heart lockets.",
+                "quantity": 5,
+                "item": "Heart Locket"
+            },
+            {
+                "title": "Extract 5 vials of insulin.",
+                "quantity": 5,
+                "item": "Insulin"
+            },
+            {
+                "title": "Extract 5 small dolls.",
+                "quantity": 5,
+                "item": "Small Doll"
+            },
+            {
+                "title": "Extract 5 lucky cat statues.",
+                "quantity": 5,
+                "item": "Lucky Cat Statue"
+            },
+            {
+                "title": "Extract 5 dog bank statues.",
+                "quantity": 5,
+                "item": "Dog Statue"
+            }
+        ]
+    },
+    {
+        "title": "Unlock Black Mous Weekly Urgent Missions",
+        "reward": "Unlock weekly urgent missions for Black Mous.",
+        "category": "Communications Station",
+        "tasks": [
+            {
+                "title": "Extract 12 Scavenger calling cards",
+                "quantity": 12,
+                "item": "Scavenger calling card"
+            }
+        ]
+    },
+    {
+        "title": "Unlock White Lotus Weekly Urgent Missions",
+        "reward": "Unlock weekly urgent missions for White Lotus.",
+        "category": "Communications Station",
+        "tasks": [
+            {
+                "title": "Extract 10 jugs of liquid nitrogen",
+                "quantity": 10,
+                "item": "Liquid Nitrogen"
+            }
+        ]
+    },
+    {
+        "title": "Unlock Crown Weekly Urgent Missions",
+        "reward": "Unlock weekly urgent missions for Crown.",
+        "category": "Communications Station",
+        "tasks": [
+            {
+                "title": "Extract 10 cans of heavy chopper fuel.",
+                "quantity": 10,
+                "item": "Heavy Chopper Fuel"
+            }
+        ]
+    },
+    {
+        "title": "Unlock Phalanx Weekly Urgent Missions",
+        "reward": "Unlock weekly urgent missions for Phalanx.",
+        "category": "Communications Station",
+        "tasks": [
+            {
+                "title": "Extract 5 origami horses.",
+                "quantity": 5,
+                "item": "Origami Horse"
+            }
+        ]
+    },
+    {
+        "title": "Unlock Shadow Company Weekly Urgent Missions",
+        "reward": "Unlock weekly urgent missions for Shadow Company.",
+        "category": "Communications Station",
+        "tasks": [
+            {
+                "title": "Extract 10 encrypted hard drives from Building 21",
+                "quantity": 10,
+                "item": "B21 Encrypted Hard Drive"
+            }
+        ]
+    },
+    {
+        "title": "Increased Contract Payment 1",
+        "reward": "Increase contract payment by 10%.",
+        "category": "Communications Station",
+        "tasks": [
+            {
+                "title": "Complete 100 contracts",
+                "quantity": 100,
+                "item": "Contract"
+            }
+        ]
+    },
+    {
+        "title": "Increased Commander Intel 1",
+        "reward": "Secure Intel contracts mark two commanders.",
+        "category": "Communications Station",
+        "tasks": [
+            {
+                "title": "Extract 15 laptops.",
+                "quantity": 15,
+                "item": "Laptop"
+            },
+            {
+                "title": "Extract 3 encrypted hard drives.",
+                "quantity": 3,
+                "item": "Hard Drive"
+            },
+            {
+                "title": "Extract 6 encrypted thumb drives.",
+                "quantity": 6,
+                "item": "Encrypted Thumb Drive"
+            }
+        ]
+    },
+    {
+        "title": "Increased Safe Intel 1",
+        "reward": "Destroy Supplies contracts reveal 1 more safe.",
+        "category": "Communications Station",
+        "tasks": [
+            {
+                "title": "Extract 6 bricks of plastic explosives.",
+                "quantity": 6,
+                "item": "Plastic Explosive"
+            },
+            {
+                "title": "Extract 20 electrical components.",
+                "quantity": 20,
+                "item": "Electrical Component"
+            },
+            {
+                "title": "Extract 5 VCRs.",
+                "quantity": 5,
+                "item": "VCR"
+            }
+        ]
+    },
+    {
+        "title": "Increased Weapon Stash Intel 1",
+        "reward": "Weapon Stashes contain more items.",
+        "category": "Communications Station",
+        "tasks": [
+            {
+                "title": "Dead drop 3 RGL-80s.",
+                "quantity": 3,
+                "item": "Dead drop RGL-80"
+            },
+            {
+                "title": "Dead drop 20 weapons.",
+                "quantity": 20,
+                "item": "Dead drop weapon"
+            },
+            {
+                "title": "Dead drop 10 enemy weapons.",
+                "quantity": 10,
+                "item": "Dead drop enemy weapons"
+            }
+        ]
+    },
+    {
+        "title": "Increased Safe Contents 1",
+        "reward": "Safes contain more items.",
+        "category": "Communications Station",
+        "tasks": [
+            {
+                "title": "Extract 8 sensitive or classified documents.",
+                "quantity": 8,
+                "item": "Sensitive/Classified Document"
+            },
+            {
+                "title": "Dead drop $1 million in cash.",
+                "quantity": 1,
+                "item": "Dead drop $1 million cash"
+            }
+        ]
+    },
+    {
+        "title": "Increased Supply Cache Contents 1",
+        "reward": "Secure Supplies contracts mark caches with more items.",
+        "category": "Communications Station",
+        "tasks": [
+            {
+                "title": "Dead drop 10 armor plate carriers.",
+                "quantity": 10,
+                "item": "Dead drop Armor Plate Carriers"
+            },
+            {
+                "title": "Dead drop 6 3-plate carriers.",
+                "quantity": 6,
+                "item": "Dead drop 3-plate Carrier"
+            },
+            {
+                "title": "Dead drop 6 self revives.",
+                "quantity": 6,
+                "item": "Dead drop Self Revive"
+            }
+        ]
+    },
+    {
+        "title": "Increased UAV Tower Duration 2",
+        "reward": "Increase UAV Tower active time by 30 seconds.",
+        "category": "Communications Station",
+        "tasks": [
+            {
+                "title": "Extract 4 bottles of vintage wine.",
+                "quantity": 4,
+                "item": "Vintage Wine"
+            },
+            {
+                "title": "Extract 10 jars of soothing hand cream.",
+                "quantity": 10,
+                "item": "Soothing Hand Creme"
+            },
+            {
+                "title": "Extract 10 cigar boxes.",
+                "quantity": 10,
+                "item": "Cigar Box"
+            },
+            {
+                "title": "Extract 10 lighters.",
+                "quantity": 10,
+                "item": "Lighter"
+            }
+        ]
+    },
+    {
+        "title": "Increased SAM Site Duration 1",
+        "reward": "Increase SAM site active time by 30 seconds.",
+        "category": "Communication Station",
+        "tasks": [
+            {
+                "title": "Extract 8 aged or vintage wine bottles.",
+                "quantity": 8,
+                "item": "Aged/Vintage Wine Bottle"
+            },
+            {
+                "title": "Extract 15 bottles of fresh water.",
+                "quantity": 15,
+                "item": "Water Bottle"
+            },
+            {
+                "title": "Extract 10 bottles of Ashika liquor.",
+                "quantity": 10,
+                "item": "Ashika Liquor"
+            }
+        ]
+    },
+    {
+        "title": "Increased Exfil Chopper Speed",
+        "reward": "Increase exfil chopper arrival speed.",
+        "category": "Communications Station",
+        "tasks": [
+            {
+                "title": "Extract 100k in cash on final exfils 10 times.",
+                "quantity": 10,
+                "item": "$100k in final exfil"
+            }
+        ]
     }
 ]
